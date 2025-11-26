@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ranga Sudharshan's Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ranga Sudharshan"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "ranga_image.jpg"
   name             : "Ranga Sudharshan"
   pronouns         : # example: "she/her"
-  bio              : "Life pendulums between research and sleep. I do write sometimes on random, futile stuff-a museum of things I want to forget"
+  bio              : "Life pendulums between research and sleep. I do write sometimes-a museum of things I want to forget"
   location         : "Ann Arbor"
   employer         : "Dept of Computational<br/>Medicine and Bioinformatics<br/>UM Ann Arbor"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
