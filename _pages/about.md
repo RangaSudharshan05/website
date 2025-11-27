@@ -9,12 +9,15 @@ redirect_from:
 <section id="about">
   <h2>About</h2>
   <p>
-    I am jointly funded by the laboratories of 
-    <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Dr. Jiaqi Shi</a> 
-    in the Department of Pathology and 
-    <a href="https://sibl.lab.medicine.umich.edu/">Dr. Arvind Rao</a> 
-    in the Department of Computational Medicine and Bioinformatics. 
-    I serve as the primary bioinformatician for the Shi Lab. Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at IIT (BHU), Varanasi, India, in 2023.
+    I serve as the primary bioinformatician at the <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Pancreatic Cancer lab</a>
+    in the <a href="https://www.pathology.med.umich.edu/">Department of Pathology</a> 
+    and as a Research Specialist Lab Associate at the <a href="https://sibl.lab.medicine.umich.edu/">Systems Imaging and Bioinformatics Lab</a>
+        in the <a href="https://medschool.umich.edu/departments/computational-medicine-bioinformatics">Department of Computational Medicine and Bioinformatics</a>.
+    I am jointly advised by
+    <a href="https://www.uofmhealth.org/profile/1245541457/jiaqi-shi">Dr. Jiaqi Shi</a> 
+    and 
+    <a href="https://medicine.umich.edu/dept/mni/arvind-rao-phd">Dr. Arvind Rao</a> at University of Michigan, Ann Arbor.
+    Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at <a href="https://www.iitbhu.ac.in/">IIT (BHU)</a>, Varanasi, India, in 2023.
   </p>
 </section>
 
@@ -27,6 +30,19 @@ redirect_from:
 <p>
 In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms for biological network inference across large-scale transcriptomics data. My research applies concepts from quantum information theory and quantum computing to model biological networks. Although genes and cells are not quantum systems, regulatory and signaling networks frequently exhibit non-local correlations, contextual behavior, and entanglement-like dependencies that resemble quantum phenomena and are difficult to capture with traditional statistical models.
 </p>
+
+<section id="recent-news">
+  <h2>Recent News</h2>
+  <ul>
+    <section id="recent-news">
+  <h2>Recent News</h2>
+  <ul>
+    <li>Joined Dr. Arvind Rao’s lab as a research associate <a href="" target="_blank">[link]</a></li>
+  </ul>
+</section>
+ </ul>
+</section>
+
 
 <h2>What inspires me</h2>
 <p>
@@ -50,7 +66,4 @@ My long-term goal is to develop computational frameworks for precision medicine 
 
  
 
-<section id="recent-news">
-  <h2>Recent News</h2>
-  <p>Will update here...</p>
-</section>
+
