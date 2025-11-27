@@ -23,7 +23,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
   - title: "Home"
-    url: /
+    url:
     
   - title: "CV"
     url: /cv/
