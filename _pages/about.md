@@ -16,8 +16,10 @@ redirect_from:
     I am jointly advised by
     <a href="https://www.uofmhealth.org/profile/1245541457/jiaqi-shi">Dr. Jiaqi Shi</a> 
     and 
-    <a href="https://medicine.umich.edu/dept/mni/arvind-rao-phd">Dr. Arvind Rao</a> at University of Michigan, Ann Arbor.
-    Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at <a href="https://www.iitbhu.ac.in/">IIT (BHU)</a>, Varanasi, India, in 2023.
+    <a href="https://medicine.umich.edu/dept/mni/arvind-rao-phd">Dr. Arvind Rao</a> at the University of Michigan, Ann Arbor.
+  </p>
+  <p>
+Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at <a href="https://www.iitbhu.ac.in/">IIT (BHU)</a>, Varanasi, India, in 2023.
   </p>
 </section>
 
