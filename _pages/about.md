@@ -11,7 +11,7 @@ redirect_from:
   <p>
     I serve as a Research Specialist Lab Associate at the <a href="https://sibl.lab.medicine.umich.edu/">Systems Imaging and Bioinformatics Lab</a>
     in the <a href="https://medschool.umich.edu/departments/computational-medicine-bioinformatics">Department of Computational Medicine and Bioinformatics</a>
-    as the primary bioinformatician at the <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Pancreatic Cancer lab</a>
+    and as the primary bioinformatician at the <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Pancreatic Cancer lab</a>
     in the <a href="https://www.pathology.med.umich.edu/">Department of Pathology</a>. 
     I am jointly advised by
     <a href="https://www.uofmhealth.org/profile/1245541457/jiaqi-shi">Dr. Jiaqi Shi</a> 
