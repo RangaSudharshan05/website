@@ -46,7 +46,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 </section>
 
 
-<h2>What inspires me</h2>
+<h2>What I think is cool</h2>
 <p>
 From an early age, I have been fascinated by free will as a philosophical construct. My childhoood was shaped by reading Dostoevsky's literature, exploring the neurobiology of behavior with Robert Sapolsky, and inevitably embracing an absurdist perspective. These interests naturally evolved into a fascination with the quantum nature of biology and the stochastic regulation of gene expression — what I think of as the “free will” of the human genome.
 </p>
