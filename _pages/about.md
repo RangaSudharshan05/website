@@ -121,7 +121,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 <li>
   <div class="item-info"><span class="date">Aug 2022:</span> DAAD (KOSPIE) Scholar — Awarded Combined Study & Practice Stays Scholarship (declined)</div>
- <a href="https://drive.google.com/file/d/1KE4yYAYIXUxEDBr2jWmtoAbH_5ico7pD/view?usp=sharing"_blank">[link]</a>
+  <a href="https://drive.google.com/file/d/1KE4yYAYIXUxEDBr2jWmtoAbH_5ico7pD/view?usp=sharing"_blank">[link]</a>
 </li>
 
 
