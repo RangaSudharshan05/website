@@ -66,7 +66,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 
 <li>
-  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma <br> (American Society of Hematology: ASH – oral presentation)</div>
+  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma compared to systemic DLBCL<br> (American Society of Hematology: ASH – oral presentation)</div>
   <a href="https://submit.hematology.org/program/presentation/680702" target="_blank">[link]</a>
 </li>
 
