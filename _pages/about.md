@@ -26,7 +26,7 @@ Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical 
  
 <section id="research">
   <h2>Research</h2>
- <p> In Dr. Jiaqi Shi’s lab, I study how alterations in key epigenetic regulators—specifically KMT2D and KDM6A—shape pancreatic cancer progression. As the lab’s bioinformatician, I lead the analysis of epigenomic and transcriptomic datasets to characterize how chromatin remodeling influences cellular identity, plasticity, and state transitions. This work aims to uncover the molecular mechanisms and cellular heterogeneity that drive tumor evolution and therapeutic resistance in pancreatic cancer.
+ <p> In Dr. Jiaqi Shi’s lab, I study how alterations in key epigenetic regulators, specifically KMT2D and KDM6A shape pancreatic cancer progression. As the lab’s bioinformatician, I lead the analysis of epigenomic and transcriptomic datasets to characterize how chromatin remodeling influences cellular identity, plasticity, and state transitions. This work aims to uncover the molecular mechanisms and cellular heterogeneity that drive tumor evolution and therapeutic resistance in pancreatic cancer.
  </p>
 
 <p>
@@ -64,7 +64,10 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 <h2>Recent News</h2>
 <ul>
 
-
+<li>
+  <div class="item-info"><span class="date">Dec 2025:</span> Presented a talk titled “Chromatin Accessibility Shifts in Epithelial Cells Following KMT2D Loss in PDAC” as part of the PanTERA Seminar Series at the Rogel Cancer Center.</div>
+  
+</li>
 <li>
   <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma compared to systemic DLBCL<br> (American Society of Hematology: ASH – oral presentation)</div>
   <a href="https://submit.hematology.org/program/presentation/680702" target="_blank">[link]</a>
@@ -146,7 +149,7 @@ From an early age, I have been fascinated by free will as a philosophical constr
 Stochastic biochemical processes, such as chromatin remodeling, enhancer activation, and nucleosome repositioning, probabilistically determine which regulatory paths a cell “chooses” within the constraints of its genomic landscape. These probabilistic transitions mirror quantum-like principles, including superposition of potential states, context-dependent outcomes, and non-local regulatory effects.
 </p>
 <p>
-A concrete example is epithelial–mesenchymal transition (EMT). During EMT, epithelial cells lose polarity and adhesion while acquiring mesenchymal traits such as motility and invasiveness. Single-cell data reveal that transitions between epithelial, mesenchymal, and hybrid states often occur spontaneously, even without strong external stimuli. This behavior resembles quantum tunneling, as cells probabilistically traverse substantial epigenetic, transcriptional, and regulatory barriers. Hybrid epithelial/mesenchymal states — in which cells co-express markers of both identities — conceptually parallel quantum superposition, with cells transiently occupying multiple potential identities. Final outcomes are influenced by local and global contextual cues, such as mechanical stress or chromatin accessibility.
+A concrete example is epithelial–mesenchymal transition (EMT). During EMT, epithelial cells lose polarity and adhesion while acquiring mesenchymal traits such as motility and invasiveness. Single-cell data reveal that transitions between epithelial, mesenchymal, and hybrid states often occur spontaneously, even without strong external stimuli. This behavior resembles quantum tunneling, as cells probabilistically traverse substantial epigenetic, transcriptional, and regulatory barriers. Hybrid epithelial/mesenchymal states - in which cells co-express markers of both identities - conceptually parallel quantum superposition, with cells transiently occupying multiple potential identities. Final outcomes are influenced by local and global contextual cues, such as mechanical stress or chromatin accessibility.
 </p>
 <p>
 These observations illustrate how stochastic, epigenetically regulated processes govern cell fate in a quantum-inspired probabilistic landscape. They also motivate the use of tools such as density matrices, partial traces, and quantum mutual information to model how cells integrate signals and commit to specific phenotypic trajectories.
