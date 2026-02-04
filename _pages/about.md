@@ -65,7 +65,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 <ul>
 
 <li>
-  <div class="item-info"><span class="date">Feb 2026:</span> Co-authored paper titled "Elevated TIGIT Expression and Immune Cell Dysfunction Characterize COMPASS-like Complex Gene-mutated Pancreatic Ductal Adenocarcinoma" </div>
+  <div class="item-info"><span class="date">Feb 2026:</span> Co-authored journal paper titled "Elevated TIGIT Expression and Immune Cell Dysfunction Characterize COMPASS-like Complex Gene-mutated Pancreatic Ductal Adenocarcinoma" </div>
   <a href="https://doi.org/10.1016/j.modpat.2026.100972" target="_blank">[link]</a>
 </li>
 
