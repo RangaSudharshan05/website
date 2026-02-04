@@ -65,6 +65,11 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 <ul>
 
 <li>
+  <div class="item-info"><span class="date">Feb 2026:</span> Co-authored paper titled "Elevated TIGIT Expression and Immune Cell Dysfunction Characterize COMPASS-like Complex Gene-mutated Pancreatic Ductal Adenocarcinoma" </div>
+  <a href="https://doi.org/10.1016/j.modpat.2026.100972" target="_blank">[link]</a>
+</li>
+
+<li>
   <div class="item-info"><span class="date">Dec 2025:</span> Presented a talk titled “Chromatin Accessibility Shifts in Epithelial Cells Following KMT2D Loss in PDAC” as part of the PanTERA Seminar Series at the Rogel Cancer Center.</div>
   
 </li>
