@@ -104,7 +104,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 <li>
   <div class="item-info"><span class="date">Jun 2025:</span> Gave a talk: “Simplifying quantum state tomography using maximum likelihood estimation” <br> IEEE International Symposium on Information Theory 2025</div>
-  <a href="https://drive.google.com/file/d/1AAcbXV73W0NewvjlCARuOrVbHuTMZAtj/view?usp=sharing" target="_blank">[link]</a>
+  <a href="https://drive.google.com/file/d/148kYW4KjhmrJj_uIDXmUtiCt60aAO9t7/view?usp=sharing" target="_blank">[link]</a>
 </li>
 
 <li>
