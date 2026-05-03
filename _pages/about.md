@@ -65,6 +65,10 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 <ul>
 
 <li>
+  <div class="item-info"><span class="date">Apr 2026:</span> "A Quantum-Like Framework for Modeling and Inferring Gene Regulatory Networks"<br> (Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI, Broad Institute – short talk)</div>
+  <a href="" target="_blank"></a>
+</li>
+<li>
   <div class="item-info"><span class="date">Feb 2026:</span> Co-authored journal paper titled "Elevated TIGIT Expression and Immune Cell Dysfunction Characterize COMPASS-like Complex Gene-mutated Pancreatic Ductal Adenocarcinoma" </div>
   <a href="https://www.sciencedirect.com/science/article/pii/S0893395226000153" target="_blank">[link]</a>
 </li>
