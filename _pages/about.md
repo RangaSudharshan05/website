@@ -65,7 +65,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 <ul>
 
 <li>
-  <div class="item-info"><span class="date">Apr 2026:</span> "A Quantum-Like Framework for Modeling and Inferring Gene Regulatory Networks"<br> (Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI, Broad Institute – short talk)</div>
+ <div class="item-info"><span class="date">Apr 2026:</span> "A Quantum-Like Framework for Modeling and Inferring Gene Regulatory Networks"<br> (Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI, Broad Institute – short talk)</div>
   <a href="" target="_blank"></a>
 </li>
 <li>
